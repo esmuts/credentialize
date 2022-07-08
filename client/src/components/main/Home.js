@@ -6,9 +6,9 @@ import { Row, Button } from "react-bootstrap";
 export default function Home() {
   return (
     <div>
-      <Row className="m-4">
-        <h4>Welcome to the Cool-Tech Credential Manager.</h4>
-        <p>
+      <Row className="m-5">
+        <h3>Welcome to the Cool-Tech Credential Manager.</h3>
+        <p className="mt-4 mb-0">
           <em>Please login to proceed.</em>
         </p>
       </Row>
