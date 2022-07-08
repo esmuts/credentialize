@@ -1,0 +1,11 @@
+.login-form {
+  text-align: left;
+}
+
+.login-form input {
+  width: 100%;
+}
+
+.signup-prompt button {
+  margin-left: 1rem;
+}

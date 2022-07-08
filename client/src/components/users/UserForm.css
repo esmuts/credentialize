@@ -1,0 +1,50 @@
+.user-form {
+  text-align: left;
+}
+
+.user-form input {
+  width: 100%;
+}
+
+.user-submit {
+  text-align: center;
+}
+
+.select-role {
+  text-align: inherit;
+}
+
+.user-permissions {
+  background-color: inherit;
+  list-style-type: disc;
+  padding-left: 4rem;
+}
+
+.user-permissions li {
+  border: none;
+}
+
+.user-permissions input {
+  width: inherit;
+  margin-right: 0.5rem;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.radio-option input {
+  width: inherit;
+  margin-left: 10vmin;
+  margin-right: 1rem;
+}
+
+.new-repo {
+  text-align: center;
+}
+
+.repo-item input {
+  margin-left: 1rem;
+}

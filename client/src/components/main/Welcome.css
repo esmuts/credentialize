@@ -1,0 +1,8 @@
+.repo-list li:hover {
+  background-color: lightgrey;
+  cursor: pointer;
+}
+
+.repo-list li:active {
+  background-color: grey;
+}

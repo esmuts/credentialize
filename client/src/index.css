@@ -1,0 +1,15 @@
+/* Colour palette
+
+dark green: #326051
+light grey: #DBD3D8
+dark grey: #99A9AF
+
+
+*/
+
+body {
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #326051;
+}

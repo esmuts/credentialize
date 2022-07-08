@@ -1,0 +1,31 @@
+.signup-form {
+  text-align: left;
+}
+
+.select-division {
+  text-align: inherit;
+}
+
+.signup-form input {
+  width: 100%;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.radio-option input {
+  width: inherit;
+  margin-left: 10vmin;
+  margin-right: 1rem;
+}
+
+select:invalid {
+  color: grey;
+}
+
+.register-button {
+  text-align: center;
+}

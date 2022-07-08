@@ -1,0 +1,81 @@
+/* Layout CSS */
+
+.app {
+  text-align: center;
+}
+
+.container {
+  background-color: #dbd3d8;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: #99a9af;
+
+  border-bottom: 1px solid black;
+}
+
+.logout {
+  text-align: center;
+  border-top: 1px solid black;
+}
+
+.signup-prompt {
+  border-top: 1px solid black;
+}
+
+/* Link CSS */
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: inherit;
+}
+
+/* List CSS */
+
+ul {
+  list-style: none;
+  background-color: white;
+  margin: auto;
+}
+
+li {
+  border: 1px solid black;
+}
+
+/* Button CSS */
+
+.btn-primary {
+  background-color: #326051;
+  border-color: #326051;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #66757b;
+  border-color: #66757b;
+}
+
+.logout-button {
+  width: max-content;
+  margin: auto;
+  background-color: #7f637c;
+  border-color: #326051;
+  color: white;
+}
+
+.signup-button {
+  background-color: #7f637c;
+  border-color: #326051;
+  color: white;
+}
+
+.update-button {
+  background-color: #99a9af;
+  border-color: #326051;
+  color: black;
+}
