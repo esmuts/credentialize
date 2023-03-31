@@ -1,6 +1,6 @@
 # Credentialize
 
-Credentialize is a full-stack web app (server & backend) that provides credential management functionality for a large fictional media company (Cool-Tech) with multiple users, units and divisions. The tech stack is MongoDB (database), Node.js/Express (backend) and React (frontend).
+Credentialize is a full-stack web app (server & frontend) that provides credential management functionality for a large fictional media company (Cool-Tech) with multiple users, units and divisions. The tech stack is MongoDB (database), Node.js/Express (backend) and React (frontend).
 
 ## Contents
 
